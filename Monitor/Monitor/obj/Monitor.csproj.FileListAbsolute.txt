@@ -1,0 +1,8 @@
+C:\Documents and Settings\Josh\My Documents\Visual Studio 2005\Projects\Monitor\Monitor\bin\Debug\Monitor.exe
+C:\Documents and Settings\Josh\My Documents\Visual Studio 2005\Projects\Monitor\Monitor\bin\Debug\Monitor.pdb
+C:\Documents and Settings\Josh\My Documents\Visual Studio 2005\Projects\Monitor\Monitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Josh\My Documents\Visual Studio 2005\Projects\Monitor\Monitor\obj\Debug\Monitor.Form1.resources
+C:\Documents and Settings\Josh\My Documents\Visual Studio 2005\Projects\Monitor\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+C:\Documents and Settings\Josh\My Documents\Visual Studio 2005\Projects\Monitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+C:\Documents and Settings\Josh\My Documents\Visual Studio 2005\Projects\Monitor\Monitor\obj\Debug\Monitor.exe
+C:\Documents and Settings\Josh\My Documents\Visual Studio 2005\Projects\Monitor\Monitor\obj\Debug\Monitor.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Monitor.Form1.resources
+obj\Debug\Monitor.Properties.Resources.resources
+obj\Debug\Monitor.csproj.GenerateResource.Cache
+bin\Debug\Monitor.exe
+bin\Debug\Monitor.pdb
+obj\Debug\Monitor.exe
+obj\Debug\Monitor.pdb

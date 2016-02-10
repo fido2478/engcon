@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BatInfoLight.Form1.resources
+obj\Debug\BatInfoLight.Properties.Resources.resources
+obj\Debug\BatInfoLight.csproj.GenerateResource.Cache
+bin\Debug\BatInfoLight.exe
+bin\Debug\BatInfoLight.pdb
+obj\Debug\BatInfoLight.exe
+obj\Debug\BatInfoLight.pdb
+bin\Release\BatInfoLight.exe
+bin\Release\BatInfoLight.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BatInfoLight.Form1.resources
+obj\Release\BatInfoLight.Properties.Resources.resources
+obj\Release\BatInfoLight.csproj.GenerateResource.Cache
+obj\Release\BatInfoLight.exe
+obj\Release\BatInfoLight.pdb
